@@ -4,7 +4,7 @@
       <v-card-title>
         <h3>แบบบันทึกทะเบียนครัวเรือน</h3>
       </v-card-title>
-      <v-card-subtitle>ที่อาสาสมัครสาธารณสุขดูแล</v-card-subtitle>
+      <v-card-subtitle>สำหรับเขต</v-card-subtitle>
       <v-card-text>
         <v-form class="mt-10">
           <v-text-field
@@ -25,9 +25,9 @@
 
         <v-row justify="center">
           <v-radio-group v-model="radioGroup" row>
-            <v-radio label="ผู้ดูแลระบบ" :value="1"></v-radio>
+            <!-- <v-radio label="ผู้ดูแลระบบ" :value="1"></v-radio>
             <v-radio label="อาสาสมัคร" :value="2"></v-radio>
-            <v-radio label="สมาชิกชุมชน" :value="3"></v-radio>
+            <v-radio label="สมาชิกชุมชน" :value="3"></v-radio> -->
             <!-- <v-radio label="เขต" :value="4"></v-radio> -->
           </v-radio-group>
         </v-row>
@@ -58,7 +58,7 @@ export default {
       username: "",
       password: "",
       loading: false,
-      radioGroup: 1,
+      radioGroup: 4,
     };
   },
   head() {

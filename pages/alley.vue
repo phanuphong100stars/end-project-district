@@ -5,7 +5,7 @@
     </div>
 
     <div>
-      <v-btn
+      <!-- <v-btn
         color="primary"
         large
         class="col-12 col-lg-2 mt-6"
@@ -13,7 +13,7 @@
       >
         <v-icon left> mdi-plus-circle </v-icon>
         สร้างซอย
-      </v-btn>
+      </v-btn> -->
     </div>
     <v-card class="mt-6" outlined>
       <v-data-table

@@ -4,7 +4,7 @@
       <Breadcrumb :items="breadcrumbs" :title="title" />
     </div>
     <div>
-      <v-btn
+      <!-- <v-btn
         color="primary"
         large
         class="col-12 col-lg-2 mt-6"
@@ -12,7 +12,7 @@
       >
         <v-icon left> mdi-plus-circle </v-icon>
         เพิ่มสมาชิกชุมชน
-      </v-btn>
+      </v-btn> -->
       <v-btn
         color="primary"
         large
