@@ -1,0 +1,62 @@
+{
+  "Breadcrumbs": {
+    "description": "Auto imported from components/Breadcrumbs.vue"
+  },
+  "ActivitiesAddActivityMember": {
+    "description": "Auto imported from components/activities/AddActivityMember.vue"
+  },
+  "AccountsCreateAccount": {
+    "description": "Auto imported from components/accounts/CreateAccount.vue"
+  },
+  "AccountsStepper": {
+    "description": "Auto imported from components/accounts/Stepper.vue"
+  },
+  "BasicAddAlley": {
+    "description": "Auto imported from components/basic/AddAlley.vue"
+  },
+  "BasicAddCommunityInfo": {
+    "description": "Auto imported from components/basic/AddCommunityInfo.vue"
+  },
+  "BasicAddDistrict": {
+    "description": "Auto imported from components/basic/AddDistrict.vue"
+  },
+  "BasicAddRoad": {
+    "description": "Auto imported from components/basic/AddRoad.vue"
+  },
+  "BasicAddZone": {
+    "description": "Auto imported from components/basic/AddZone.vue"
+  },
+  "CommiteeAddCommitee": {
+    "description": "Auto imported from components/commitee/AddCommitee.vue"
+  },
+  "CommunityBoardsAddCommunityBoard": {
+    "description": "Auto imported from components/community-boards/AddCommunityBoard.vue"
+  },
+  "HealthCheckAddHealthCheckMember": {
+    "description": "Auto imported from components/health-check/AddHealthCheckMember.vue"
+  },
+  "ManageBaseVueAddCommunityInfo": {
+    "description": "Auto imported from components/ManageBase.vue/AddCommunityInfo.vue"
+  },
+  "HouseHoldMembersAddMember": {
+    "description": "Auto imported from components/house-hold-members/AddMember.vue"
+  },
+  "HouseHoldsAddHeadHouseHold": {
+    "description": "Auto imported from components/house-holds/AddHeadHouseHold.vue"
+  },
+  "HouseHoldsCreateHouseHold": {
+    "description": "Auto imported from components/house-holds/CreateHouseHold.vue"
+  },
+  "PersonsCreatePersons": {
+    "description": "Auto imported from components/persons/CreatePersons.vue"
+  },
+  "PersonsRole": {
+    "description": "Auto imported from components/persons/Role.vue"
+  },
+  "RolesCreateForm": {
+    "description": "Auto imported from components/roles/CreateForm.vue"
+  },
+  "HouseHoldsAlleyForm": {
+    "description": "Auto imported from components/house-holds/alley/AlleyForm.vue"
+  }
+}
