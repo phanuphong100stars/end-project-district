@@ -3,217 +3,186 @@
     "name": "accounts",
     "path": "/accounts",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/accounts.vue",
-    "chunkName": "pages/accounts",
-    "_name": "_73f88bf6"
+    "chunkName": "pages/accounts"
   },
   {
     "name": "accounts-edit",
     "path": "/accounts-edit",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/accounts-edit.vue",
-    "chunkName": "pages/accounts-edit",
-    "_name": "_01932382"
+    "chunkName": "pages/accounts-edit"
   },
   {
     "name": "activities",
     "path": "/activities",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/activities.vue",
-    "chunkName": "pages/activities",
-    "_name": "_961b4e68"
+    "chunkName": "pages/activities"
   },
   {
     "name": "add-head-house-holds",
     "path": "/add-head-house-holds",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/add-head-house-holds.vue",
-    "chunkName": "pages/add-head-house-holds",
-    "_name": "_3513e585"
+    "chunkName": "pages/add-head-house-holds"
   },
   {
     "name": "add-house-hold-members",
     "path": "/add-house-hold-members",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/add-house-hold-members.vue",
-    "chunkName": "pages/add-house-hold-members",
-    "_name": "_c8c7d9ba"
+    "chunkName": "pages/add-house-hold-members"
   },
   {
     "name": "add-house-holds",
     "path": "/add-house-holds",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/add-house-holds.vue",
-    "chunkName": "pages/add-house-holds",
-    "_name": "_a3a3ffa8"
+    "chunkName": "pages/add-house-holds"
   },
   {
     "name": "add-persons",
     "path": "/add-persons",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/add-persons.vue",
-    "chunkName": "pages/add-persons",
-    "_name": "_8d73f77a"
+    "chunkName": "pages/add-persons"
   },
   {
     "name": "add-volunteer-house-holds",
     "path": "/add-volunteer-house-holds",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/add-volunteer-house-holds.vue",
-    "chunkName": "pages/add-volunteer-house-holds",
-    "_name": "_4ea943a9"
+    "chunkName": "pages/add-volunteer-house-holds"
   },
   {
     "name": "alley",
     "path": "/alley",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/alley.vue",
-    "chunkName": "pages/alley",
-    "_name": "_3d3a7906"
+    "chunkName": "pages/alley"
   },
   {
     "name": "committees",
     "path": "/committees",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/committees.vue",
-    "chunkName": "pages/committees",
-    "_name": "_2fb2ce16"
+    "chunkName": "pages/committees"
   },
   {
     "name": "community-board",
     "path": "/community-board",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/community-board.vue",
-    "chunkName": "pages/community-board",
-    "_name": "_777afd33"
+    "chunkName": "pages/community-board"
   },
   {
     "name": "community-info",
     "path": "/community-info",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/community-info.vue",
-    "chunkName": "pages/community-info",
-    "_name": "_1f18b21e"
+    "chunkName": "pages/community-info"
   },
   {
     "name": "district",
     "path": "/district",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/district.vue",
-    "chunkName": "pages/district",
-    "_name": "_274b1dad"
+    "chunkName": "pages/district"
   },
   {
     "name": "edit-activity-members",
     "path": "/edit-activity-members",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/edit-activity-members.vue",
-    "chunkName": "pages/edit-activity-members",
-    "_name": "_23ba562f"
+    "chunkName": "pages/edit-activity-members"
   },
   {
     "name": "edit-community-board",
     "path": "/edit-community-board",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/edit-community-board.vue",
-    "chunkName": "pages/edit-community-board",
-    "_name": "_7ba0dd44"
+    "chunkName": "pages/edit-community-board"
   },
   {
     "name": "edit-health-check",
     "path": "/edit-health-check",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/edit-health-check.vue",
-    "chunkName": "pages/edit-health-check",
-    "_name": "_40df47aa"
+    "chunkName": "pages/edit-health-check"
   },
   {
     "name": "edit-house-holds",
     "path": "/edit-house-holds",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/edit-house-holds.vue",
-    "chunkName": "pages/edit-house-holds",
-    "_name": "_781eff83"
+    "chunkName": "pages/edit-house-holds"
   },
   {
     "name": "edit-persons",
     "path": "/edit-persons",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/edit-persons.vue",
-    "chunkName": "pages/edit-persons",
-    "_name": "_895b71cc"
+    "chunkName": "pages/edit-persons"
   },
   {
     "name": "export-house-holds",
     "path": "/export-house-holds",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/export-house-holds.vue",
-    "chunkName": "pages/export-house-holds",
-    "_name": "_15cc4b6d"
+    "chunkName": "pages/export-house-holds"
   },
   {
     "name": "health-check",
     "path": "/health-check",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/health-check.vue",
-    "chunkName": "pages/health-check",
-    "_name": "_11f0ef14"
+    "chunkName": "pages/health-check"
   },
   {
     "name": "house-holds",
     "path": "/house-holds",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/house-holds.vue",
-    "chunkName": "pages/house-holds",
-    "_name": "_3788c450"
+    "chunkName": "pages/house-holds"
   },
   {
     "name": "house-holds-edit",
     "path": "/house-holds-edit",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/house-holds-edit.vue",
-    "chunkName": "pages/house-holds-edit",
-    "_name": "_1c40a8e2"
+    "chunkName": "pages/house-holds-edit"
   },
   {
     "name": "landing-page",
     "path": "/landing-page",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/landing-page.vue",
-    "chunkName": "pages/landing-page",
-    "_name": "_722c08b8"
+    "chunkName": "pages/landing-page"
   },
   {
     "name": "login",
     "path": "/login",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/login.vue",
-    "chunkName": "pages/login",
-    "_name": "_5cf0074c"
+    "chunkName": "pages/login"
   },
   {
     "name": "my-house",
     "path": "/my-house",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/my-house.vue",
-    "chunkName": "pages/my-house",
-    "_name": "_592c615e"
+    "chunkName": "pages/my-house"
   },
   {
     "name": "person-roles",
     "path": "/person-roles",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/person-roles.vue",
-    "chunkName": "pages/person-roles",
-    "_name": "_45ca7538"
+    "chunkName": "pages/person-roles"
   },
   {
     "name": "persons",
     "path": "/persons",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/persons.vue",
-    "chunkName": "pages/persons",
-    "_name": "_67bd57ef"
+    "chunkName": "pages/persons"
   },
   {
     "name": "road",
     "path": "/road",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/road.vue",
-    "chunkName": "pages/road",
-    "_name": "_5ae5abbf"
+    "chunkName": "pages/road"
   },
   {
     "name": "roles",
     "path": "/roles",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/roles.vue",
-    "chunkName": "pages/roles",
-    "_name": "_4d14d1ae"
+    "chunkName": "pages/roles"
   },
   {
     "name": "zone",
     "path": "/zone",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/zone.vue",
-    "chunkName": "pages/zone",
-    "_name": "_9fa7ab6a"
+    "chunkName": "pages/zone"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/pnpmc/Work/end-project/end-project-district/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_07e05943"
+    "chunkName": "pages/index"
   }
 ]
